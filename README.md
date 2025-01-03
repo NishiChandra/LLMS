@@ -1,3 +1,2 @@
 # LLMS
-All About LLM's.
-LLM Learning Notes , codes and projects
+This repo contains LLM's Notes , Research Papers, Codes and projects.
